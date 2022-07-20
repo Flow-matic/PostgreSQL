@@ -64,14 +64,6 @@ margaret_hamilton = Programmer(
     famous_for="Apollo 11"
 )
 
-bill_gates = Programmer(
-    first_name="Bill",
-    last_name="Gates",
-    gender="M",
-    nationality="American",
-    famous_for="Microsoft"
-)
-
 tim_berners_lee = Programmer(
     first_name="Tim",
     last_name="Berners-Lee",
